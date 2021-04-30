@@ -97,3 +97,20 @@ background-color:#C6FFDD}
 .icon:hover {
   color: #ff4c68;
 }
+/*Download*/
+#download{
+  text-align: center;
+}
+
+.download-button {
+  margin: 20px 10px;
+}
+/*Footer*/
+#footer{
+  text-align: center;
+  
+}
+
+.social-icon {
+  margin: 20px 10px;
+}
